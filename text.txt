@@ -1,0 +1,6 @@
+My name is Mohamed Elsayd Farouk 
+I am study with Amit 
+My diploma is machine learning and AI
+Mohamed:123456
+Elsayd:456789
+Farouk:123456789
